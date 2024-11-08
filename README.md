@@ -89,7 +89,7 @@ Olá! Meu nome é Kaio, sou entusiasta de tecnologia e desenvolvimento web, atua
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbt-codes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
